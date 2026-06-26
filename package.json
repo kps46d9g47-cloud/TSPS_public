@@ -8,10 +8,16 @@
     "validate:graph": "tsx builder/scripts/validateKnowledgeGraph.ts",
     "test:smoke": "tsx builder/tests/pipeline.smoke.test.ts",
     "build:master": "tsx builder/scripts/buildMasterEdition.ts",
+    "export:master": "tsx builder/scripts/exportMasterEdition.ts",
     "test": "npm run build && npm run validate:graph && npm run test:smoke"
+  },
+  "dependencies": {
+    "docx": "^8.5.0",
+    "pdfkit": "^0.15.0"
   },
   "devDependencies": {
     "@types/node": "^22.0.0",
+    "@types/pdfkit": "^0.13.9",
     "tsx": "^4.19.0",
     "typescript": "^5.6.0"
   }
