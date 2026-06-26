@@ -1,0 +1,51 @@
+project: TSPS
+repository: kps46d9g47-cloud/TSPS_public
+release_track: Master Edition
+phase: Phase A Sprint 1C
+source_policy: Canonical Markdown files are the source of truth after materialization.
+canonical_index: canonical/canonical_index.json
+canonical_modules:
+  - id: "01"
+    name: Executive Summary
+    path: canonical/01_Executive_Summary.md
+    status: LOCKED
+    integrity_hash: CM-01-LOCKED-v2.0
+  - id: "02"
+    name: Country Positioning Matrix
+    path: canonical/02_Country_Positioning_Matrix.md
+    status: LOCKED
+    integrity_hash: CM-02-LOCKED-v2.0
+  - id: "03"
+    name: Strategic Positioning
+    path: canonical/03_Strategic_Positioning.md
+    status: LOCKED
+    integrity_hash: CM-03-LOCKED-v2.0
+  - id: "04"
+    name: SWOT Analysis
+    path: canonical/04_SWOT_Analysis.md
+    status: LOCKED
+    integrity_hash: CM-04-LOCKED-v2.0
+  - id: "05"
+    name: Strategic Positioning Assessment Framework
+    path: canonical/05_Strategic_Positioning_Assessment_Framework.md
+    status: LOCKED
+    integrity_hash: CM-05-LOCKED-v2.0
+  - id: "06"
+    name: Strategic Positioning & Go-to-Market Logic
+    path: canonical/06_Strategic_Positioning_and_Go_to_Market_Logic.md
+    status: LOCKED
+    integrity_hash: CM-06-LOCKED-v2.0
+  - id: "07"
+    name: Primary African Anchor Market
+    path: canonical/07_Primary_African_Anchor_Market.md
+    status: LOCKED
+    integrity_hash: CM-07-LOCKED-v2.0
+  - id: "08"
+    name: South Africa Market Validation
+    path: canonical/08_South_Africa_Market_Validation.md
+    status: LOCKED
+    integrity_hash: CM-08-LOCKED-v2.0
+build_policy:
+  use_standalone_pdf_as_source: false
+  use_chat_as_source_after_materialization: false
+  require_canonical_verification: true
