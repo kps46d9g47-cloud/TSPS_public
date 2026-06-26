@@ -1,0 +1,29 @@
+{
+  "project": "TSPS",
+  "phase": "Phase C Sprint 4B",
+  "release_type": "FIRST_EXECUTABLE_BUILD_NO_PUBLICATION_ARTIFACT",
+  "version": "0.1.0-executable-build",
+  "canonical_source_policy": "Canonical Markdown modules are the only content source.",
+  "canonical_module_count": 23,
+  "build_artifacts": [
+    "build/publication_plan.json",
+    "build/layout_plan.json",
+    "build/toc.json",
+    "build/traceability.json",
+    "build/release_manifest.json",
+    "reports/build_execution_report.json",
+    "reports/qa_report.json"
+  ],
+  "excluded_artifacts": [
+    "DOCX",
+    "PDF",
+    "Master Edition"
+  ],
+  "integrity": {
+    "canonical_modules_modified": false,
+    "knowledge_graph_entities": 23,
+    "publication_sections": 23,
+    "traceability_entries": 23
+  },
+  "status": "PASS_WITH_TECHNICAL_NOTES"
+}
