@@ -1,0 +1,51 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://tsps.local/schemas/knowledge_graph.schema.json",
+  "title": "TSPS Knowledge Graph",
+  "type": "object",
+  "required": ["project", "phase", "graph_version", "source_policy", "entities", "relationships", "traceability"],
+  "properties": {
+    "project": { "type": "string", "const": "TSPS" },
+    "phase": { "type": "string" },
+    "graph_version": { "type": "string" },
+    "source_policy": { "type": "string" },
+    "entities": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/entity" },
+      "minItems": 1
+    },
+    "relationships": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/relationship" }
+    },
+    "traceability": { "type": "object" }
+  },
+  "$defs": {
+    "entity": {
+      "type": "object",
+      "required": ["id", "type", "name", "path", "integrity_hash"],
+      "properties": {
+        "id": { "type": "string", "pattern": "^CM-[0-9]{2}$" },
+        "type": { "type": "string" },
+        "name": { "type": "string" },
+        "country": { "type": "string" },
+        "path": { "type": "string", "pattern": "^canonical/.+\\.md$" },
+        "integrity_hash": { "type": "string", "pattern": "^CM-[0-9]{2}-LOCKED-v2\\.0$" }
+      },
+      "additionalProperties": true
+    },
+    "relationship": {
+      "type": "object",
+      "required": ["from", "to", "type"],
+      "properties": {
+        "from": { "type": "string", "pattern": "^CM-[0-9]{2}$" },
+        "to": { "type": "string", "pattern": "^CM-[0-9]{2}$" },
+        "type": {
+          "type": "string",
+          "enum": ["depends_on", "depends_on_group_member", "references", "supports", "derived_from"]
+        }
+      },
+      "additionalProperties": false
+    }
+  }
+}
