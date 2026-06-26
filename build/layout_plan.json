@@ -1,0 +1,31 @@
+{
+  "project": "TSPS",
+  "phase": "Phase C Sprint 4B",
+  "sourcePlanSections": 23,
+  "layout_policy": "One layout block per canonical publication section; no DOCX/PDF rendering in Sprint 4B.",
+  "blocks": [
+    {"order":1,"id":"layout-section-CM-01","sectionId":"section-CM-01","sourceEntityId":"CM-01","title":"Executive Summary","layoutType":"section"},
+    {"order":2,"id":"layout-section-CM-02","sectionId":"section-CM-02","sourceEntityId":"CM-02","title":"Country Positioning Matrix","layoutType":"section"},
+    {"order":3,"id":"layout-section-CM-03","sectionId":"section-CM-03","sourceEntityId":"CM-03","title":"Strategic Positioning","layoutType":"section"},
+    {"order":4,"id":"layout-section-CM-04","sectionId":"section-CM-04","sourceEntityId":"CM-04","title":"SWOT Analysis","layoutType":"section"},
+    {"order":5,"id":"layout-section-CM-05","sectionId":"section-CM-05","sourceEntityId":"CM-05","title":"Strategic Positioning Assessment Framework","layoutType":"section"},
+    {"order":6,"id":"layout-section-CM-06","sectionId":"section-CM-06","sourceEntityId":"CM-06","title":"Strategic Positioning & Go-to-Market Logic","layoutType":"section"},
+    {"order":7,"id":"layout-section-CM-07","sectionId":"section-CM-07","sourceEntityId":"CM-07","title":"Primary African Anchor Market","layoutType":"section"},
+    {"order":8,"id":"layout-section-CM-08","sectionId":"section-CM-08","sourceEntityId":"CM-08","title":"South Africa Market Validation","layoutType":"section"},
+    {"order":9,"id":"layout-section-CM-09","sectionId":"section-CM-09","sourceEntityId":"CM-09","title":"South Africa","layoutType":"country"},
+    {"order":10,"id":"layout-section-CM-10","sectionId":"section-CM-10","sourceEntityId":"CM-10","title":"Vietnam","layoutType":"country"},
+    {"order":11,"id":"layout-section-CM-11","sectionId":"section-CM-11","sourceEntityId":"CM-11","title":"Indonesia","layoutType":"country"},
+    {"order":12,"id":"layout-section-CM-12","sectionId":"section-CM-12","sourceEntityId":"CM-12","title":"India","layoutType":"country"},
+    {"order":13,"id":"layout-section-CM-13","sectionId":"section-CM-13","sourceEntityId":"CM-13","title":"United Arab Emirates","layoutType":"country"},
+    {"order":14,"id":"layout-section-CM-14","sectionId":"section-CM-14","sourceEntityId":"CM-14","title":"Saudi Arabia","layoutType":"country"},
+    {"order":15,"id":"layout-section-CM-15","sectionId":"section-CM-15","sourceEntityId":"CM-15","title":"Oman","layoutType":"country"},
+    {"order":16,"id":"layout-section-CM-16","sectionId":"section-CM-16","sourceEntityId":"CM-16","title":"Jordan","layoutType":"country"},
+    {"order":17,"id":"layout-section-CM-17","sectionId":"section-CM-17","sourceEntityId":"CM-17","title":"Nigeria","layoutType":"country"},
+    {"order":18,"id":"layout-section-CM-18","sectionId":"section-CM-18","sourceEntityId":"CM-18","title":"Mongolia","layoutType":"country"},
+    {"order":19,"id":"layout-section-CM-19","sectionId":"section-CM-19","sourceEntityId":"CM-19","title":"Country-Level TAM / SAM / SOM","layoutType":"framework"},
+    {"order":20,"id":"layout-section-CM-20","sectionId":"section-CM-20","sourceEntityId":"CM-20","title":"Product-Market Fit","layoutType":"framework"},
+    {"order":21,"id":"layout-section-CM-21","sectionId":"section-CM-21","sourceEntityId":"CM-21","title":"Strategic Market Prioritization Framework","layoutType":"framework"},
+    {"order":22,"id":"layout-section-CM-22","sectionId":"section-CM-22","sourceEntityId":"CM-22","title":"International Expansion Roadmap","layoutType":"roadmap"},
+    {"order":23,"id":"layout-section-CM-23","sectionId":"section-CM-23","sourceEntityId":"CM-23","title":"Strategic Conclusions","layoutType":"section"}
+  ]
+}
