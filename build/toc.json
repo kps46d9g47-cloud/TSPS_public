@@ -1,0 +1,30 @@
+{
+  "project": "TSPS",
+  "phase": "Phase C Sprint 4B",
+  "entry_count": 23,
+  "entries": [
+    {"level":1,"order":1,"sectionId":"section-CM-01","title":"Executive Summary"},
+    {"level":1,"order":2,"sectionId":"section-CM-02","title":"Country Positioning Matrix"},
+    {"level":1,"order":3,"sectionId":"section-CM-03","title":"Strategic Positioning"},
+    {"level":1,"order":4,"sectionId":"section-CM-04","title":"SWOT Analysis"},
+    {"level":1,"order":5,"sectionId":"section-CM-05","title":"Strategic Positioning Assessment Framework"},
+    {"level":1,"order":6,"sectionId":"section-CM-06","title":"Strategic Positioning & Go-to-Market Logic"},
+    {"level":1,"order":7,"sectionId":"section-CM-07","title":"Primary African Anchor Market"},
+    {"level":1,"order":8,"sectionId":"section-CM-08","title":"South Africa Market Validation"},
+    {"level":1,"order":9,"sectionId":"section-CM-09","title":"South Africa"},
+    {"level":1,"order":10,"sectionId":"section-CM-10","title":"Vietnam"},
+    {"level":1,"order":11,"sectionId":"section-CM-11","title":"Indonesia"},
+    {"level":1,"order":12,"sectionId":"section-CM-12","title":"India"},
+    {"level":1,"order":13,"sectionId":"section-CM-13","title":"United Arab Emirates"},
+    {"level":1,"order":14,"sectionId":"section-CM-14","title":"Saudi Arabia"},
+    {"level":1,"order":15,"sectionId":"section-CM-15","title":"Oman"},
+    {"level":1,"order":16,"sectionId":"section-CM-16","title":"Jordan"},
+    {"level":1,"order":17,"sectionId":"section-CM-17","title":"Nigeria"},
+    {"level":1,"order":18,"sectionId":"section-CM-18","title":"Mongolia"},
+    {"level":1,"order":19,"sectionId":"section-CM-19","title":"Country-Level TAM / SAM / SOM"},
+    {"level":1,"order":20,"sectionId":"section-CM-20","title":"Product-Market Fit"},
+    {"level":1,"order":21,"sectionId":"section-CM-21","title":"Strategic Market Prioritization Framework"},
+    {"level":1,"order":22,"sectionId":"section-CM-22","title":"International Expansion Roadmap"},
+    {"level":1,"order":23,"sectionId":"section-CM-23","title":"Strategic Conclusions"}
+  ]
+}
