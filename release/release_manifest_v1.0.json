@@ -1,0 +1,44 @@
+{
+  "project": "TSPS",
+  "release": "Master Edition v1.0",
+  "status": "MASTER_EDITION_V1_0_READY",
+  "repository": "kps46d9g47-cloud/TSPS_public",
+  "canonical_repository_state": "Frozen for Release v1.0",
+  "source_policy": "Frozen Canonical Repository is the sole source of truth.",
+  "canonical_modules_modified": false,
+  "builder_modified": false,
+  "release_inputs": [
+    "build/master_edition.md",
+    "build/master_edition_structure.json",
+    "reports/master_build_report.json",
+    "reports/master_traceability_report.json",
+    "reports/master_qa_report.json",
+    "reports/master_verification_report.json",
+    "reports/release_candidate_manifest.json",
+    "canonical/canonical_index.json",
+    "knowledge_graph/knowledge_graph.json"
+  ],
+  "release_artifacts": [
+    "release/release_manifest_v1.0.json",
+    "release/CHANGELOG_v1.0.md",
+    "release/RELEASE_NOTES_v1.0.md"
+  ],
+  "verification": {
+    "master_edition_rc_verified": true,
+    "structural_verification": "PASS",
+    "content_verification": "PASS",
+    "dependency_verification": "PASS",
+    "traceability_verification": "PASS",
+    "completeness_verification": "PASS"
+  },
+  "counts": {
+    "canonical_modules": 23,
+    "master_sections": 23,
+    "knowledge_graph_entities": 23
+  },
+  "git_tag": {
+    "requested": "v1.0",
+    "created_by_connector": false,
+    "technical_note": "The available GitHub Connector actions in this environment do not expose a tag/ref creation operation. The tag must be created from Codespaces or GitHub UI."
+  }
+}
