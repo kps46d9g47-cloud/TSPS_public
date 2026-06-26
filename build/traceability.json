@@ -1,0 +1,31 @@
+{
+  "project": "TSPS",
+  "phase": "Phase C Sprint 4B",
+  "entry_count": 23,
+  "coverage": "100% of publication sections trace to canonical source files and declared integrity hashes.",
+  "entries": [
+    {"sectionId":"section-CM-01","sourceEntityId":"CM-01","sourcePath":"canonical/01_Executive_Summary.md","integrityHash":"CM-01-LOCKED-v2.0"},
+    {"sectionId":"section-CM-02","sourceEntityId":"CM-02","sourcePath":"canonical/02_Country_Positioning_Matrix.md","integrityHash":"CM-02-LOCKED-v2.0"},
+    {"sectionId":"section-CM-03","sourceEntityId":"CM-03","sourcePath":"canonical/03_Strategic_Positioning.md","integrityHash":"CM-03-LOCKED-v2.0"},
+    {"sectionId":"section-CM-04","sourceEntityId":"CM-04","sourcePath":"canonical/04_SWOT_Analysis.md","integrityHash":"CM-04-LOCKED-v2.0"},
+    {"sectionId":"section-CM-05","sourceEntityId":"CM-05","sourcePath":"canonical/05_Strategic_Positioning_Assessment_Framework.md","integrityHash":"CM-05-LOCKED-v2.0"},
+    {"sectionId":"section-CM-06","sourceEntityId":"CM-06","sourcePath":"canonical/06_Strategic_Positioning_and_Go_to_Market_Logic.md","integrityHash":"CM-06-LOCKED-v2.0"},
+    {"sectionId":"section-CM-07","sourceEntityId":"CM-07","sourcePath":"canonical/07_Primary_African_Anchor_Market.md","integrityHash":"CM-07-LOCKED-v2.0"},
+    {"sectionId":"section-CM-08","sourceEntityId":"CM-08","sourcePath":"canonical/08_South_Africa_Market_Validation.md","integrityHash":"CM-08-LOCKED-v2.0"},
+    {"sectionId":"section-CM-09","sourceEntityId":"CM-09","sourcePath":"canonical/09_South_Africa.md","integrityHash":"CM-09-LOCKED-v2.0"},
+    {"sectionId":"section-CM-10","sourceEntityId":"CM-10","sourcePath":"canonical/10_Vietnam.md","integrityHash":"CM-10-LOCKED-v2.0"},
+    {"sectionId":"section-CM-11","sourceEntityId":"CM-11","sourcePath":"canonical/11_Indonesia.md","integrityHash":"CM-11-LOCKED-v2.0"},
+    {"sectionId":"section-CM-12","sourceEntityId":"CM-12","sourcePath":"canonical/12_India.md","integrityHash":"CM-12-LOCKED-v2.0"},
+    {"sectionId":"section-CM-13","sourceEntityId":"CM-13","sourcePath":"canonical/13_United_Arab_Emirates.md","integrityHash":"CM-13-LOCKED-v2.0"},
+    {"sectionId":"section-CM-14","sourceEntityId":"CM-14","sourcePath":"canonical/14_Saudi_Arabia.md","integrityHash":"CM-14-LOCKED-v2.0"},
+    {"sectionId":"section-CM-15","sourceEntityId":"CM-15","sourcePath":"canonical/15_Oman.md","integrityHash":"CM-15-LOCKED-v2.0"},
+    {"sectionId":"section-CM-16","sourceEntityId":"CM-16","sourcePath":"canonical/16_Jordan.md","integrityHash":"CM-16-LOCKED-v2.0"},
+    {"sectionId":"section-CM-17","sourceEntityId":"CM-17","sourcePath":"canonical/17_Nigeria.md","integrityHash":"CM-17-LOCKED-v2.0"},
+    {"sectionId":"section-CM-18","sourceEntityId":"CM-18","sourcePath":"canonical/18_Mongolia.md","integrityHash":"CM-18-LOCKED-v2.0"},
+    {"sectionId":"section-CM-19","sourceEntityId":"CM-19","sourcePath":"canonical/19_Country_Level_TAM_SAM_SOM.md","integrityHash":"CM-19-LOCKED-v2.0"},
+    {"sectionId":"section-CM-20","sourceEntityId":"CM-20","sourcePath":"canonical/20_Product_Market_Fit.md","integrityHash":"CM-20-LOCKED-v2.0"},
+    {"sectionId":"section-CM-21","sourceEntityId":"CM-21","sourcePath":"canonical/21_Strategic_Market_Prioritization_Framework.md","integrityHash":"CM-21-LOCKED-v2.0"},
+    {"sectionId":"section-CM-22","sourceEntityId":"CM-22","sourcePath":"canonical/22_International_Expansion_Roadmap.md","integrityHash":"CM-22-LOCKED-v2.0"},
+    {"sectionId":"section-CM-23","sourceEntityId":"CM-23","sourcePath":"canonical/23_Strategic_Conclusions.md","integrityHash":"CM-23-LOCKED-v2.0"}
+  ]
+}
