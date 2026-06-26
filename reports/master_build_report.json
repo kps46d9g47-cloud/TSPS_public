@@ -1,0 +1,30 @@
+{
+  "project": "TSPS",
+  "phase": "Phase D Sprint 5A",
+  "status": "PASS",
+  "artifact": "Master Edition RC",
+  "generatedArtifacts": [
+    "build/master_edition.md",
+    "build/master_edition_structure.json",
+    "reports/master_build_report.json",
+    "reports/master_traceability_report.json",
+    "reports/master_qa_report.json"
+  ],
+  "sourceInputs": [
+    "canonical/canonical_index.json",
+    "knowledge_graph/knowledge_graph.json",
+    "canonical/*.md"
+  ],
+  "counts": {
+    "canonicalModules": 23,
+    "graphEntities": 23,
+    "graphRelationships": 144,
+    "publicationSections": 23,
+    "layoutBlocks": 23,
+    "tocEntries": 23,
+    "traceabilityEntries": 23
+  },
+  "canonicalModulesModified": false,
+  "docxCreated": false,
+  "pdfCreated": false
+}

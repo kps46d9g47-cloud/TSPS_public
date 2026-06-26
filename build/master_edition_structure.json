@@ -1,0 +1,194 @@
+{
+  "project": "TSPS",
+  "phase": "Phase D Sprint 5A",
+  "artifact": "Master Edition RC",
+  "version": "1.0-RC",
+  "sourcePolicy": "Canonical Repository only; no conversation or intermediate PDFs used.",
+  "sectionCount": 23,
+  "sections": [
+    {
+      "order": 1,
+      "sectionId": "section-CM-01",
+      "title": "Executive Summary",
+      "sourceEntityId": "CM-01",
+      "sourcePath": "canonical/01_Executive_Summary.md",
+      "sectionType": "canonical"
+    },
+    {
+      "order": 2,
+      "sectionId": "section-CM-02",
+      "title": "Country Positioning Matrix",
+      "sourceEntityId": "CM-02",
+      "sourcePath": "canonical/02_Country_Positioning_Matrix.md",
+      "sectionType": "canonical"
+    },
+    {
+      "order": 3,
+      "sectionId": "section-CM-03",
+      "title": "Strategic Positioning",
+      "sourceEntityId": "CM-03",
+      "sourcePath": "canonical/03_Strategic_Positioning.md",
+      "sectionType": "canonical"
+    },
+    {
+      "order": 4,
+      "sectionId": "section-CM-04",
+      "title": "SWOT Analysis",
+      "sourceEntityId": "CM-04",
+      "sourcePath": "canonical/04_SWOT_Analysis.md",
+      "sectionType": "canonical"
+    },
+    {
+      "order": 5,
+      "sectionId": "section-CM-05",
+      "title": "Strategic Positioning Assessment Framework",
+      "sourceEntityId": "CM-05",
+      "sourcePath": "canonical/05_Strategic_Positioning_Assessment_Framework.md",
+      "sectionType": "canonical"
+    },
+    {
+      "order": 6,
+      "sectionId": "section-CM-06",
+      "title": "Strategic Positioning & Go-to-Market Logic",
+      "sourceEntityId": "CM-06",
+      "sourcePath": "canonical/06_Strategic_Positioning_and_Go_to_Market_Logic.md",
+      "sectionType": "canonical"
+    },
+    {
+      "order": 7,
+      "sectionId": "section-CM-07",
+      "title": "Primary African Anchor Market",
+      "sourceEntityId": "CM-07",
+      "sourcePath": "canonical/07_Primary_African_Anchor_Market.md",
+      "sectionType": "canonical"
+    },
+    {
+      "order": 8,
+      "sectionId": "section-CM-08",
+      "title": "South Africa Market Validation",
+      "sourceEntityId": "CM-08",
+      "sourcePath": "canonical/08_South_Africa_Market_Validation.md",
+      "sectionType": "canonical"
+    },
+    {
+      "order": 9,
+      "sectionId": "section-CM-09",
+      "title": "South Africa",
+      "sourceEntityId": "CM-09",
+      "sourcePath": "canonical/09_South_Africa.md",
+      "sectionType": "country"
+    },
+    {
+      "order": 10,
+      "sectionId": "section-CM-10",
+      "title": "Vietnam",
+      "sourceEntityId": "CM-10",
+      "sourcePath": "canonical/10_Vietnam.md",
+      "sectionType": "country"
+    },
+    {
+      "order": 11,
+      "sectionId": "section-CM-11",
+      "title": "Indonesia",
+      "sourceEntityId": "CM-11",
+      "sourcePath": "canonical/11_Indonesia.md",
+      "sectionType": "country"
+    },
+    {
+      "order": 12,
+      "sectionId": "section-CM-12",
+      "title": "India",
+      "sourceEntityId": "CM-12",
+      "sourcePath": "canonical/12_India.md",
+      "sectionType": "country"
+    },
+    {
+      "order": 13,
+      "sectionId": "section-CM-13",
+      "title": "United Arab Emirates",
+      "sourceEntityId": "CM-13",
+      "sourcePath": "canonical/13_United_Arab_Emirates.md",
+      "sectionType": "country"
+    },
+    {
+      "order": 14,
+      "sectionId": "section-CM-14",
+      "title": "Saudi Arabia",
+      "sourceEntityId": "CM-14",
+      "sourcePath": "canonical/14_Saudi_Arabia.md",
+      "sectionType": "country"
+    },
+    {
+      "order": 15,
+      "sectionId": "section-CM-15",
+      "title": "Oman",
+      "sourceEntityId": "CM-15",
+      "sourcePath": "canonical/15_Oman.md",
+      "sectionType": "country"
+    },
+    {
+      "order": 16,
+      "sectionId": "section-CM-16",
+      "title": "Jordan",
+      "sourceEntityId": "CM-16",
+      "sourcePath": "canonical/16_Jordan.md",
+      "sectionType": "country"
+    },
+    {
+      "order": 17,
+      "sectionId": "section-CM-17",
+      "title": "Nigeria",
+      "sourceEntityId": "CM-17",
+      "sourcePath": "canonical/17_Nigeria.md",
+      "sectionType": "country"
+    },
+    {
+      "order": 18,
+      "sectionId": "section-CM-18",
+      "title": "Mongolia",
+      "sourceEntityId": "CM-18",
+      "sourcePath": "canonical/18_Mongolia.md",
+      "sectionType": "country"
+    },
+    {
+      "order": 19,
+      "sectionId": "section-CM-19",
+      "title": "Country-Level TAM / SAM / SOM",
+      "sourceEntityId": "CM-19",
+      "sourcePath": "canonical/19_Country_Level_TAM_SAM_SOM.md",
+      "sectionType": "framework"
+    },
+    {
+      "order": 20,
+      "sectionId": "section-CM-20",
+      "title": "Product-Market Fit",
+      "sourceEntityId": "CM-20",
+      "sourcePath": "canonical/20_Product_Market_Fit.md",
+      "sectionType": "framework"
+    },
+    {
+      "order": 21,
+      "sectionId": "section-CM-21",
+      "title": "Strategic Market Prioritization Framework",
+      "sourceEntityId": "CM-21",
+      "sourcePath": "canonical/21_Strategic_Market_Prioritization_Framework.md",
+      "sectionType": "framework"
+    },
+    {
+      "order": 22,
+      "sectionId": "section-CM-22",
+      "title": "International Expansion Roadmap",
+      "sourceEntityId": "CM-22",
+      "sourcePath": "canonical/22_International_Expansion_Roadmap.md",
+      "sectionType": "roadmap"
+    },
+    {
+      "order": 23,
+      "sectionId": "section-CM-23",
+      "title": "Strategic Conclusions",
+      "sourceEntityId": "CM-23",
+      "sourcePath": "canonical/23_Strategic_Conclusions.md",
+      "sectionType": "summary"
+    }
+  ]
+}
