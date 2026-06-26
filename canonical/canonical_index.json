@@ -1,0 +1,44 @@
+{
+  "project": "TSPS",
+  "repository": "kps46d9g47-cloud/TSPS_public",
+  "phase": "Phase A Sprint 1A",
+  "source_policy": "Canonical Markdown files are source of truth after materialization.",
+  "modules": [
+    {
+      "module_id": "01",
+      "module_name": "Executive Summary",
+      "version": "2.0",
+      "status": "LOCKED",
+      "classification": "Canonical",
+      "path": "canonical/01_Executive_Summary.md",
+      "integrity_hash": "CM-01-LOCKED-v2.0"
+    },
+    {
+      "module_id": "02",
+      "module_name": "Country Positioning Matrix",
+      "version": "2.0",
+      "status": "LOCKED",
+      "classification": "Canonical",
+      "path": "canonical/02_Country_Positioning_Matrix.md",
+      "integrity_hash": "CM-02-LOCKED-v2.0"
+    },
+    {
+      "module_id": "03",
+      "module_name": "Strategic Positioning",
+      "version": "2.0",
+      "status": "LOCKED",
+      "classification": "Canonical",
+      "path": "canonical/03_Strategic_Positioning.md",
+      "integrity_hash": "CM-03-LOCKED-v2.0"
+    },
+    {
+      "module_id": "04",
+      "module_name": "SWOT Analysis",
+      "version": "2.0",
+      "status": "LOCKED",
+      "classification": "Canonical",
+      "path": "canonical/04_SWOT_Analysis.md",
+      "integrity_hash": "CM-04-LOCKED-v2.0"
+    }
+  ]
+}
