@@ -1,80 +1,31 @@
 {
   "project": "TSPS",
   "repository": "kps46d9g47-cloud/TSPS_public",
-  "phase": "Phase A Sprint 1B",
-  "source_policy": "Canonical Markdown files are source of truth after materialization.",
+  "phase": "Phase A Sprint 2D",
+  "source_policy": "Canonical Markdown files are the sole source of truth after materialization.",
   "modules": [
-    {
-      "module_id": "01",
-      "module_name": "Executive Summary",
-      "version": "2.0",
-      "status": "LOCKED",
-      "classification": "Canonical",
-      "path": "canonical/01_Executive_Summary.md",
-      "integrity_hash": "CM-01-LOCKED-v2.0"
-    },
-    {
-      "module_id": "02",
-      "module_name": "Country Positioning Matrix",
-      "version": "2.0",
-      "status": "LOCKED",
-      "classification": "Canonical",
-      "path": "canonical/02_Country_Positioning_Matrix.md",
-      "integrity_hash": "CM-02-LOCKED-v2.0"
-    },
-    {
-      "module_id": "03",
-      "module_name": "Strategic Positioning",
-      "version": "2.0",
-      "status": "LOCKED",
-      "classification": "Canonical",
-      "path": "canonical/03_Strategic_Positioning.md",
-      "integrity_hash": "CM-03-LOCKED-v2.0"
-    },
-    {
-      "module_id": "04",
-      "module_name": "SWOT Analysis",
-      "version": "2.0",
-      "status": "LOCKED",
-      "classification": "Canonical",
-      "path": "canonical/04_SWOT_Analysis.md",
-      "integrity_hash": "CM-04-LOCKED-v2.0"
-    },
-    {
-      "module_id": "05",
-      "module_name": "Strategic Positioning Assessment Framework",
-      "version": "2.0",
-      "status": "LOCKED",
-      "classification": "Canonical",
-      "path": "canonical/05_Strategic_Positioning_Assessment_Framework.md",
-      "integrity_hash": "CM-05-LOCKED-v2.0"
-    },
-    {
-      "module_id": "06",
-      "module_name": "Strategic Positioning & Go-to-Market Logic",
-      "version": "2.0",
-      "status": "LOCKED",
-      "classification": "Canonical",
-      "path": "canonical/06_Strategic_Positioning_and_Go_to_Market_Logic.md",
-      "integrity_hash": "CM-06-LOCKED-v2.0"
-    },
-    {
-      "module_id": "07",
-      "module_name": "Primary African Anchor Market",
-      "version": "2.0",
-      "status": "LOCKED",
-      "classification": "Canonical",
-      "path": "canonical/07_Primary_African_Anchor_Market.md",
-      "integrity_hash": "CM-07-LOCKED-v2.0"
-    },
-    {
-      "module_id": "08",
-      "module_name": "South Africa Market Validation",
-      "version": "2.0",
-      "status": "LOCKED",
-      "classification": "Canonical",
-      "path": "canonical/08_South_Africa_Market_Validation.md",
-      "integrity_hash": "CM-08-LOCKED-v2.0"
-    }
+    {"module_id":"01","module_name":"Executive Summary","version":"2.0","status":"LOCKED","classification":"Canonical","path":"canonical/01_Executive_Summary.md","integrity_hash":"CM-01-LOCKED-v2.0"},
+    {"module_id":"02","module_name":"Country Positioning Matrix","version":"2.0","status":"LOCKED","classification":"Canonical","path":"canonical/02_Country_Positioning_Matrix.md","integrity_hash":"CM-02-LOCKED-v2.0"},
+    {"module_id":"03","module_name":"Strategic Positioning","version":"2.0","status":"LOCKED","classification":"Canonical","path":"canonical/03_Strategic_Positioning.md","integrity_hash":"CM-03-LOCKED-v2.0"},
+    {"module_id":"04","module_name":"SWOT Analysis","version":"2.0","status":"LOCKED","classification":"Canonical","path":"canonical/04_SWOT_Analysis.md","integrity_hash":"CM-04-LOCKED-v2.0"},
+    {"module_id":"05","module_name":"Strategic Positioning Assessment Framework","version":"2.0","status":"LOCKED","classification":"Canonical","path":"canonical/05_Strategic_Positioning_Assessment_Framework.md","integrity_hash":"CM-05-LOCKED-v2.0"},
+    {"module_id":"06","module_name":"Strategic Positioning & Go-to-Market Logic","version":"2.0","status":"LOCKED","classification":"Canonical","path":"canonical/06_Strategic_Positioning_and_Go_to_Market_Logic.md","integrity_hash":"CM-06-LOCKED-v2.0"},
+    {"module_id":"07","module_name":"Primary African Anchor Market","version":"2.0","status":"LOCKED","classification":"Canonical","path":"canonical/07_Primary_African_Anchor_Market.md","integrity_hash":"CM-07-LOCKED-v2.0"},
+    {"module_id":"08","module_name":"South Africa Market Validation","version":"2.0","status":"LOCKED","classification":"Canonical","path":"canonical/08_South_Africa_Market_Validation.md","integrity_hash":"CM-08-LOCKED-v2.0"},
+    {"module_id":"09","module_name":"South Africa","version":"2.0","status":"LOCKED","classification":"Canonical","path":"canonical/09_South_Africa.md","integrity_hash":"CM-09-LOCKED-v2.0"},
+    {"module_id":"10","module_name":"Vietnam","version":"2.0","status":"LOCKED","classification":"Canonical","path":"canonical/10_Vietnam.md","integrity_hash":"CM-10-LOCKED-v2.0"},
+    {"module_id":"11","module_name":"Indonesia","version":"2.0","status":"LOCKED","classification":"Canonical","path":"canonical/11_Indonesia.md","integrity_hash":"CM-11-LOCKED-v2.0"},
+    {"module_id":"12","module_name":"India","version":"2.0","status":"LOCKED","classification":"Canonical","path":"canonical/12_India.md","integrity_hash":"CM-12-LOCKED-v2.0"},
+    {"module_id":"13","module_name":"United Arab Emirates","version":"2.0","status":"LOCKED","classification":"Canonical","path":"canonical/13_United_Arab_Emirates.md","integrity_hash":"CM-13-LOCKED-v2.0"},
+    {"module_id":"14","module_name":"Saudi Arabia","version":"2.0","status":"LOCKED","classification":"Canonical","path":"canonical/14_Saudi_Arabia.md","integrity_hash":"CM-14-LOCKED-v2.0"},
+    {"module_id":"15","module_name":"Oman","version":"2.0","status":"LOCKED","classification":"Canonical","path":"canonical/15_Oman.md","integrity_hash":"CM-15-LOCKED-v2.0"},
+    {"module_id":"16","module_name":"Jordan","version":"2.0","status":"LOCKED","classification":"Canonical","path":"canonical/16_Jordan.md","integrity_hash":"CM-16-LOCKED-v2.0"},
+    {"module_id":"17","module_name":"Nigeria","version":"2.0","status":"LOCKED","classification":"Canonical","path":"canonical/17_Nigeria.md","integrity_hash":"CM-17-LOCKED-v2.0"},
+    {"module_id":"18","module_name":"Mongolia","version":"2.0","status":"LOCKED","classification":"Canonical","path":"canonical/18_Mongolia.md","integrity_hash":"CM-18-LOCKED-v2.0"},
+    {"module_id":"19","module_name":"Country-Level TAM / SAM / SOM","version":"2.0","status":"LOCKED","classification":"Canonical","path":"canonical/19_Country_Level_TAM_SAM_SOM.md","integrity_hash":"CM-19-LOCKED-v2.0"},
+    {"module_id":"20","module_name":"Product-Market Fit","version":"2.0","status":"LOCKED","classification":"Canonical","path":"canonical/20_Product_Market_Fit.md","integrity_hash":"CM-20-LOCKED-v2.0"},
+    {"module_id":"21","module_name":"Strategic Market Prioritization Framework","version":"2.0","status":"LOCKED","classification":"Canonical","path":"canonical/21_Strategic_Market_Prioritization_Framework.md","integrity_hash":"CM-21-LOCKED-v2.0"},
+    {"module_id":"22","module_name":"International Expansion Roadmap","version":"2.0","status":"LOCKED","classification":"Canonical","path":"canonical/22_International_Expansion_Roadmap.md","integrity_hash":"CM-22-LOCKED-v2.0"},
+    {"module_id":"23","module_name":"Strategic Conclusions","version":"2.0","status":"LOCKED","classification":"Canonical","path":"canonical/23_Strategic_Conclusions.md","integrity_hash":"CM-23-LOCKED-v2.0"}
   ]
 }
