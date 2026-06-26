@@ -7,6 +7,7 @@
     "build": "tsc --noEmit",
     "validate:graph": "tsx builder/scripts/validateKnowledgeGraph.ts",
     "test:smoke": "tsx builder/tests/pipeline.smoke.test.ts",
+    "build:master": "tsx builder/scripts/buildMasterEdition.ts",
     "test": "npm run build && npm run validate:graph && npm run test:smoke"
   },
   "devDependencies": {
